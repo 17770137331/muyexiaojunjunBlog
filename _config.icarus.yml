@@ -5,6 +5,7 @@ variant: default
 # Path or URL to the website's logo
 logo: /img/logo.svg
 # Page metadata configurations
+language: zh-CN
 head:
     # URL or path to the website's icon
     favicon: /img/favicon.svg
@@ -105,11 +106,11 @@ head:
 navbar:
     # Navigation menu items
     menu:
-        Home: /
-        Archives: /archives
-        Categories: /categories
-        Tags: /tags
-        About: /about
+        '我的': /
+        '档案': /archives
+        '类别': /categories
+        '标签': /tags
+        '关于': /about
     # Links to be shown on the right of the navigation bar
     links:
         Download on GitHub:
@@ -231,9 +232,9 @@ widgets:
         # Author name
         author: 木叶小俊俊
         # Author title
-        author_title: Your title
+        author_title:
         # Author's current location
-        location: Your location
+        location: 上海徐汇
         # URL or path to the avatar image
         avatar: /img/title.jpg
         # Whether show the rounded avatar image
