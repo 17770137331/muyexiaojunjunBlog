@@ -5,7 +5,6 @@ variant: default
 # Path or URL to the website's logo
 logo: /img/logo.svg
 # Page metadata configurations
-language: zh-CN
 head:
     # URL or path to the website's icon
     favicon: /img/favicon.svg
@@ -230,7 +229,7 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: 木叶小俊俊
+        author: 木叶小俊
         # Author title
         author_title:
         # Author's current location
@@ -242,24 +241,24 @@ widgets:
         # Email address for the Gravatar
         gravatar: 
         # URL or path for the follow button
-        follow_link: https://github.com/ppoffice
+        follow_link: https://gitee.com/yjmayun
         # Links to be shown on the bottom of the profile widget
-        social_links:
-            Github:
-                icon: fab fa-github
-                url: https://github.com/ppoffice
-            Facebook:
-                icon: fab fa-facebook
-                url: https://facebook.com
-            Twitter:
-                icon: fab fa-twitter
-                url: https://twitter.com
-            Dribbble:
-                icon: fab fa-dribbble
-                url: https://dribbble.com
-            RSS:
-                icon: fas fa-rss
-                url: /
+        # social_links:
+        #     Github:
+        #         icon: fab fa-github
+        #         url: https://gitee.com/yjmayun
+        #     Facebook:
+        #         icon: fab fa-facebook
+        #         url: https://facebook.com
+        #     Twitter:
+        #         icon: fab fa-twitter
+        #         url: https://twitter.com
+        #     Dribbble:
+        #         icon: fab fa-dribbble
+        #         url: https://dribbble.com
+        #     RSS:
+        #         icon: fas fa-rss
+        #         url: /
     # Table of contents widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
