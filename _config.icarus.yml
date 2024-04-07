@@ -12,7 +12,7 @@ head:
     # https://developer.mozilla.org/en-US/docs/Web/Manifest
     manifest:
         # Name of the web application (default to the site title)
-        name: 
+        name: 木叶小俊俊
         # The displayed name of the web application
         # when there is not enough space to display full name
         short_name: 
@@ -229,13 +229,13 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: Your name
+        author: 木叶小俊俊
         # Author title
         author_title: Your title
         # Author's current location
         location: Your location
         # URL or path to the avatar image
-        avatar: 
+        avatar: /img/title.jpg
         # Whether show the rounded avatar image
         avatar_rounded: false
         # Email address for the Gravatar
