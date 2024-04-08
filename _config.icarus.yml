@@ -165,9 +165,11 @@ search:
 # Comment plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment/
 comment:
-    type: disqus
+    type: changyan
+    app_id: cyxeDs88X
+    conf: b568441a2e73d6944c423e39be4526ec
     # Disqus shortname
-    shortname: ''
+    shortname: 'blog-disqus'
 # Donate plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Donation/
 donates:
@@ -206,9 +208,9 @@ donates:
 # Share plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Share/
 share:
-    type: sharejs
+    type: bdshare
     # URL to the ShareThis share plugin script
-    install_url: 'http://bdimg.share.baidu.com/static/api/js/share.js'
+    # install_url: 'http://bdimg.share.baidu.com/static/api/js/share.js'
 # Sidebar configurations.
 # Please be noted that a sidebar is only visible when it has at least one widget
 sidebar:
@@ -347,7 +349,7 @@ plugins:
     # https://tongji.baidu.com
     baidu_analytics:
         # Baidu Analytics tracking ID
-        tracking_id: 
+        tracking_id: bc3924a947e26dce2f6d113771220959
     # Bing Webmaster Tools plugin settings
     # https://www.bing.com/toolbox/webmaster/
     bing_webmaster:

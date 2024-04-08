@@ -27,6 +27,20 @@ class Footer extends Component {
             footerLogo = siteTitle;
         }
 
+        // 可能还没有道mounted转态拿不到document
+        try {
+            // 上报
+            var _hmt = _hmt || [];
+            (function() {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?bc3924a947e26dce2f6d113771220959";
+            var s = document.getElementsByTagName("script")[0]; 
+            s.parentNode.insertBefore(hm, s);
+            })();
+        } catch (error) {
+            
+        }
+
         return <footer class="footer">
             <div class="container">
                 <div class="level">
