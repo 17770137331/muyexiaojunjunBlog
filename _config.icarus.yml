@@ -210,7 +210,7 @@ donates:
 share:
     type: bdshare
     # URL to the ShareThis share plugin script
-    # install_url: 'http://bdimg.share.baidu.com/static/api/js/share.js'
+    install_url: 'http://bdimg.share.baidu.com/static/api/js/share.js'
 # Sidebar configurations.
 # Please be noted that a sidebar is only visible when it has at least one widget
 sidebar:
@@ -279,8 +279,8 @@ widgets:
         type: links
         # Names and URLs of the sites
         links:
-            Hexo: https://hexo.io
-            Bulma: https://bulma.io
+            # Hexo: https://hexo.io
+            # Bulma: https://bulma.io
             在线魔方: https://gongjv.jun-ye.top/mofang
             实用工具箱: https://tool.browser.qq.com/
     # Categories widget configurations
