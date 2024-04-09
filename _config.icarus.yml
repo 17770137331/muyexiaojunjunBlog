@@ -165,11 +165,13 @@ search:
 # Comment plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment/
 comment:
-    type: changyan
-    app_id: cyxeDs88X
-    conf: b568441a2e73d6944c423e39be4526ec
-    # Disqus shortname
-    shortname: 'blog-disqus'
+    type: livere
+    uid: MTAyMC81OTcyNC8zNjE4Ng==
+    # type: changyan
+    # app_id: cyxeDs88X
+    # conf: b568441a2e73d6944c423e39be4526ec
+    # # Disqus shortname
+    # shortname: 'blog-disqus'
 # Donate plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Donation/
 donates:
