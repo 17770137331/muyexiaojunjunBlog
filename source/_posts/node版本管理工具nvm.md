@@ -6,6 +6,8 @@ tags:
 updated: 2024-04-09 18:51:56
 categories:
   - 技术
+excerpt: nvm全英文也叫node.js version management，是一个nodejs的版本管理工具。nvm和n都是node.js版本管理工具，为了解决node.js各种版本存在不兼容现象可以通过它可以安装和切换不同版本的node.js
+cover: https://gongjv.jun-ye.top/myblog/image/default.webp
 ---
 nvm是什么
 
@@ -27,23 +29,23 @@ nvm安装
 
 1. **卸载之前的node后安装nvm**, nvm-setup.exe安装版，直接运行nvm-setup.exe
 
-![step1.png](./image/nvm.001.png)
+![step1.png](https://gongjv.jun-ye.top/myblog/image/nvm.001.png)
 
 2.选择nvm安装路径
 
-![step2.png](./image/nvm.002.png)
+![step2.png](https://gongjv.jun-ye.top/myblog/image/nvm.002.png)
 
 3.选择nodejs路径
 
-![step3.png](./image/nvm.003.png)
+![step3.png](https://gongjv.jun-ye.top/myblog/image/nvm.003.png)
 
 4.确认安装即可
 
-![step4.png](./image/nvm.004.png)
+![step4.png](https://gongjv.jun-ye.top/myblog/image/nvm.004.png)
 
 5.安装完确认
 
-![step5.png](./image/nvm.005.png)
+![step5.png](https://gongjv.jun-ye.top/myblog/image/nvm.005.png)
 
 打开CMD，输入命令 nvm ，安装成功则如下显示。可以看到里面列出了各种命令，本节最后会列出这些命令的中文示意。
 
@@ -77,29 +79,29 @@ nvm version ：显示nvm版本。version可简化为v。
 
 nvm list available 显示可下载版本的部分列表
 
-![st-available.png](./image/nvm.006.jpeg)
+![st-available.png](https://gongjv.jun-ye.top/myblog/image/nvm.006.jpeg)
 
 nvm install latest安装最新版本 ( 安装时可以在上面看到 node.js 、 npm 相应的版本号 ，不建议安装最新版本)
 
-![stall-latest.png](./image/nvm.007.png)
+![stall-latest.png](https://gongjv.jun-ye.top/myblog/image/nvm.007.png)
 
 nvm install 版本号 安装指定的版本的nodejs
 
-![install-node.png](./image/nvm.008.png)
+![install-node.png](https://gongjv.jun-ye.top/myblog/image/nvm.008.png)
 
 查看已安装版本
 
 nvm list或nvm ls查看目前已经安装的版本 （ 当前版本号前面没有 \* ， 此时还没有使用任何一个版本，这时使用 node.js 时会报错 ）
 
-![nvm-list1.png](./image/nvm.009.png)
+![nvm-list1.png](https://gongjv.jun-ye.top/myblog/image/nvm.009.png)
 
-![nvm-list2.png](./image/nvm.010.png)
+![nvm-list2.png](https://gongjv.jun-ye.top/myblog/image/nvm.010.png)
 
 切换node版本
 
 nvm use版本号 使用指定版本的nodejs （ 这时会发现在启用的 node 版本前面有 \* 标记，这时就可以使用 node.js ）
 
-![nvm-use.png](./image/nvm.011.png)
+![nvm-use.png](https://gongjv.jun-ye.top/myblog/image/nvm.011.png)
 
 nvm切换国内镜像
 
