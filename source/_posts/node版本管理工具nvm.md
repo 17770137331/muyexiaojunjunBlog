@@ -3,7 +3,8 @@ title: node版本管理工具nvm
 date: 2024-04-09 17:47:00
 tags:
   - 技术
-updated: 2024-04-09 18:51:56categories:
+updated: 2024-04-09 18:51:56
+categories:
   - 技术
 ---
 nvm是什么
@@ -20,7 +21,7 @@ nvm下载
 
 下载链接v1.1.10：[nvm 1.1.10-setup.zip](https://nvm.uihtm.com/nvm-1.1.10-setup.zip)
 
-网盘链接：[nvm 1.1.10-setup.zip](https://pan.baidu.com/s/12E7d46XLVxGOmTDevVB58g?pwd=ntfm)
+<!-- 网盘链接：[nvm 1.1.10-setup.zip](https://pan.baidu.com/s/12E7d46XLVxGOmTDevVB58g?pwd=ntfm) -->
 
 nvm安装
 
