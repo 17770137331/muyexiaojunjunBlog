@@ -166,14 +166,14 @@ search:
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment/
 comment:
     type: valine
-    app_id: 3hmq86BnUvIoniFXZbGXHGUC-MdYXbMMI
-    app_key: Mwr3WqCJhzNmrU0m3kbYU5eM
+    app_id: hpXD3zCJtcbGUtilLmLAx7Mg-gzGzoHsz
+    app_key: kx7hP7M5AsbBu20ErmAnMn3G
     # placeholder: ""                 # 可选填
     # avatar: mm                      # 可选填
     # avatar_force: false             # 可选填
     # meta: ["nick", "mail", "link"]  # 可选填
     # page_size: 10                   # 可选填
-    lang: zh-CN                     # 可选填
+    # lang: zh-CN                     # 可选填
     # visitor: false                  # 可选填
     # highlight: true                 # 可选填
     # record_ip: false                # 可选填
