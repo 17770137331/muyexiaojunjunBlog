@@ -165,8 +165,25 @@ search:
 # Comment plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment/
 comment:
-    type: livere
-    uid: MTAyMC81OTcyNC8zNjE4Ng==
+    type: valine
+    app_id: 3hmq86BnUvIoniFXZbGXHGUC-MdYXbMMI
+    app_key: Mwr3WqCJhzNmrU0m3kbYU5eM
+    # placeholder: ""                 # 可选填
+    # avatar: mm                      # 可选填
+    # avatar_force: false             # 可选填
+    # meta: ["nick", "mail", "link"]  # 可选填
+    # page_size: 10                   # 可选填
+    lang: zh-CN                     # 可选填
+    # visitor: false                  # 可选填
+    # highlight: true                 # 可选填
+    # record_ip: false                # 可选填
+    # server_urls:                    # 可选填
+    # emoji_cdn:                      # 可选填
+    # emoji_maps:                     # 可选填
+    # enable_qq: false                # 可选填
+    # required_fields: []             # 可选填
+    # type: livere
+    # uid: MTAyMC81OTcyNC8zNjE4Ng==
     # type: changyan
     # app_id: cyxeDs88X
     # conf: b568441a2e73d6944c423e39be4526ec
