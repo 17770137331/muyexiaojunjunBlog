@@ -443,3 +443,8 @@ providers:
     fontcdn: google
     # Name or URL of the fontawesome icon font CDN provider
     iconcdn: fontawesome
+
+# Pagination
+## Set per_page to 0 to disable pagination
+per_page: 4  #每页显示的文章量 (0 = 关闭分页功能)
+pagination_dir: page  #分页目录
