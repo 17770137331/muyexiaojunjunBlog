@@ -300,9 +300,10 @@ widgets:
         links:
             # Hexo: https://hexo.io
             # Bulma: https://bulma.io
-            在线魔方: https://gongjv.jun-ye.top/mofang
+            在线小游戏: https://xiaoyouxi.jun-ye.top/
+            # 在线魔方: https://gongjv.jun-ye.top/mofang
             实用工具箱: https://tool.browser.qq.com/
-            网页版羊了个羊: https://gongjv.jun-ye.top/yanghtml5
+            # 网页版羊了个羊: https://gongjv.jun-ye.top/yanghtml5
             查绑定: https://gongjv.jun-ye.top/cha
     # Categories widget configurations
     -
