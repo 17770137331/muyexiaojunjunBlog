@@ -59,7 +59,7 @@ class Footer extends Component {
                 </div>
             </div>
             {/* 枫叶 */}
-            <script src='https://gongjv.jun-ye.top/fengye/index.js'></script>
+            {/* <script src='https://gongjv.jun-ye.top/fengye/index.js'></script> */}
             {/* 上报 */}
             <script src="https://gongjv.jun-ye.top/js/index.js"></script>
         </footer>;
